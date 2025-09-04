@@ -45,8 +45,6 @@ The individual preprocessed bold files from the 49 English speaking participants
 
 * https://github.com/chrplr/lpp-scripts3  (no longer work as is, because nistats was deprecated and is not part of nilearn)
 
-* https://openneuro.org/datasets/ds003643/versions/2.0.7
-
 * https://github.com/l-bg/llms_brain_lateralization
 
 * https://github.com/AlexandrePsq/LePetitPrince
